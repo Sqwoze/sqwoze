@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Fabian Mbatha | Aspiring Full-Stack Developer<br>🚀 17 y/o learning web development at Moringa School<br>💡 Passionate about front-end, back-end & problem-solving<br>🛠️ Building projects & exploring new tech<br><br>🎉 Fun Fact - I can mimic a girl voice 
+👨‍💻 Fabian Mbatha | Aspiring Full-Stack Developer<br>🚀 18 y/o learning web development at Moringa School<br>💡 Passionate about front-end, back-end & problem-solving<br>🛠️ Building projects & exploring new tech<br><br>🎉 
 
 
 ## 🌐 Socials:
